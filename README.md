@@ -1,1 +1,1 @@
-<img src="https://api.github.com/users/{username}" width="1000" height="60">
+<img src="https://api.github.com/users/{seongmogjo2-wq}" width="1000" height="60">
